@@ -15,7 +15,7 @@ SUDO_NUMBERS: process.env.SUDO_NUMBERS || "22665482029", //Add multiple Numbers 
 ANTI_DELETE: process.env.ANTI_DELETE || "inboxonly", // can be set to inboxonly/allchats/true/false
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS || "true",
-AUTO_LIKE_EMOJIS: process.env.AUTO_LIKE_EMOJIS || "💛,❤️,💜,🤍,💙", //Input Yours Custom...Can be one Emoji or Multiple Emojis Separated by Commas
+AUTO_LIKE_EMOJIS: process.env.AUTO_LIKE_EMOJIS || "💚", //Input Yours Custom...Can be one Emoji or Multiple Emojis Separated by Commas
 AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed by prince-mdx", // // Input Yours custom...
 MODE: process.env.MODE || "public", // Put private or public or inbox or groups
